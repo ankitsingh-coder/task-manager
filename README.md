@@ -46,19 +46,15 @@ The application allows users to add, view, and delete tasks. The focus of this p
 
 ## Folder Structure
 
-task-manager/
+- Backend/
+  - index.js → Express server with API routes
 
-│
-├── Backend/  
-│   └── index.js (Express server with API endpoints)
-│
-├── task-app/  
-│   ├── src/  
-│   ├── public/  
-│   └── package.json  
-│
-└── package.json
+- task-app/
+  - src/ → React components
+  - public/ → Static files
+  - package.json → Frontend dependencies
 
+- package.json → Root dependencies (if any)
 ---
 
 ## How to Run Locally
@@ -105,9 +101,11 @@ npm start
 
 ## Live Application
 
-Frontend: https://task-manager-omega-cyan-86.vercel.app/
+Frontend: 
+https://task-manager-omega-cyan-86.vercel.app/
 
-Backend: https://task-manager-u6dl.onrender.com/tasks
+Backend: 
+https://task-manager-u6dl.onrender.com/tasks
 
 ---
 
