@@ -105,7 +105,7 @@ npm start
 
 ## Live Application
 
-Frontend: task-manager-omega-cyan-86.vercel.app
+Frontend: https://task-manager-omega-cyan-86.vercel.app/
 
 Backend: https://task-manager-u6dl.onrender.com
 
