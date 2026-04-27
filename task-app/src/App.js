@@ -4,7 +4,7 @@ function App() {
   const [tasks, setTasks] = useState([]);
   const [input, setInput] = useState("");
 
-  const API = "http://localhost:5000/tasks";
+  const API = "https://task-manager-u6dl.onrender.com/tasks";
 
   useEffect(() => {
     fetch(API)
