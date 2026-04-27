@@ -1,6 +1,6 @@
 # dependencies
 /node_modules
-/task-app/node_modules   👈 ADD THIS
+/task-app/node_modules   
 
 /.pnp
 .pnp.js
