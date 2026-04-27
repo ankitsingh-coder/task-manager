@@ -66,18 +66,23 @@ task-manager/
 ### 1. Clone the repository
 
 git clone https://github.com/ankitsingh-coder/task-manager
+
 cd task-manager
 
 ### 2. Run Backend
 
 cd Backend
+
 npm install
+
 node index.js
 
 ### 3. Run Frontend
 
 cd task-app
+
 npm install
+
 npm start
 
 ---
